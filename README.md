@@ -1,1 +1,1 @@
-# Computational-photography---Patch-methods-IMA206
+# Computational-photography-Patch-methods-IMA206
